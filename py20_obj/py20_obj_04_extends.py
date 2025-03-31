@@ -1,6 +1,7 @@
 """
 继承和多态
 
+py支持多继承
 """
 
 class Teacher:
